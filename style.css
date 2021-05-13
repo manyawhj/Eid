@@ -1,0 +1,56 @@
+.body_background 
+{
+    background-image: url("images.jfif");
+    background-position: center;
+    background-size: cover;
+}
+
+#eidwhat {
+    height: 300px;
+    width: 350px;
+    border: 6pt;
+    border-color: aquamarine;
+    border-style: dashed;
+}
+
+#whydo {
+    height: 500px;
+    width: 250px;
+    border: 2pt;
+    border-color: aquamarine;
+    border-style: dashed;
+}
+
+#howdo {
+    height: 300px;
+    width: 350px;
+    border: 2pt;
+    border-color: aquamarine;
+    border-style: dashed;
+}
+
+p{
+font-size: 20pt;
+font-style: italic;
+font-weight: bold;
+color: rgb(107, 245, 199);
+}
+
+hr{
+size: 3pt;
+}
+
+h3{
+    color:rgb(18, 233, 18);
+    font-size: 30pt;
+    font-style: italic;
+    font-weight: bold;
+}
+
+#intro{
+    font-size: 20pt;
+font-style: italic;
+font-weight: bold;
+color: rgb(24, 177, 126);
+text-align: right;
+}
